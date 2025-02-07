@@ -1,8 +1,17 @@
 # 🍥 Desafio de POO - Anime Naruto
-Este projeto simula batalhas entre ninjas, com funcionalidades baseadas em **Programação Orientada a Objetos**, inspiradas no anime **Naruto**.
+Este projeto simula batalhas entre ninjas, com funcionalidades baseadas em **Programação Orientada a Objetos**, inspiradas no anime **Naruto**.<br><br>
 
-### Versão Anterior  
-[Desafio Ninja DB](https://github.com/joaoespdev/Desafio-Ninja-DB)
+## 🦊 Sobre o Projeto
+Neste projeto, foram criadas classes que representam personagens especializados em diferentes habilidades (**Taijutsu, Ninjutsu e Genjutsu**). Cada personagem possui **atributos e métodos** que refletem suas características e permitem realizar ações típicas do universo Naruto.  
+
+Além disso, foram adicionadas:<br>
+- Funcionalidade de **iniciar combates entre os ninjas**, possibilitando a simulação de batalhas baseadas em suas habilidades e estilos de luta.<br>
+- Melhorias na estrutura do CRUD e arquivos.<br>
+- Ampla cobertura de testes.<br><br>
+
+## 📌 Versão Anterior  
+Este projeto é uma evolução do [Desafio Ninja DB](https://github.com/joaoespdev/Desafio-Ninja-DB), trazendo novas melhorias e aprimoramentos.
+<br><br>
 
 
 
