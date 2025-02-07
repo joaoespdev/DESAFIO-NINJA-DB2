@@ -1,6 +1,10 @@
-## 🍥 Desafio de Programação Orientada a Objetos (POO) - Anime Naruto
+# 🍥 Desafio de POO - Anime Naruto
+Este projeto simula batalhas entre ninjas, com funcionalidades baseadas em **Programação Orientada a Objetos**, inspiradas no anime **Naruto**.
 
-Este projeto simula batalhas entre ninjas, com funcionalidades baseadas em **Programação Orientada a Objetos (POO)**, inspiradas no anime **Naruto**.
+### Versão Anterior  
+[Desafio Ninja DB](https://github.com/joaoespdev/Desafio-Ninja-DB)
+
+
 
 ### 🏮 Funcionalidades
 
