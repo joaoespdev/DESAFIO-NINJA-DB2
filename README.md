@@ -43,10 +43,13 @@ O projeto utiliza **DTOs (Data Transfer Objects)** para transferir dados entre a
 
 ### 🧩 Testes da Aplicação
 
-A aplicação possui testes para garantir o funcionamento correto de algumas funcionalidades. Eles estão organizados na pasta `src/test/java` e incluem as seguintes classes:
+A aplicação possui testes para garantir o funcionamento correto das funcionalidades relacionadas aos personagens e aos ninjas. Eles estão organizados na pasta `src/test/java` e incluem as seguintes classes:
 
-- **PersonagemControllerTests**: Valida a API REST do controlador de personagens.
 - **PersonagemTest**: Realiza validações gerais dos atributos e métodos da classe `Personagem`.
+- **DueloTest**: Verifica a lógica dos duelos e da criação de Ninjas e seus Jutsus.
+- **NinjaDeGenjutsuTests**: Testa a lógica para ninjas especializados em Genjutsu.
+- **NinjaDeTaijutsuTests**: Testa a lógica para ninjas especializados em Taijutsu.
+- **NinjaDeNinjutsuTests**: Testa a lógica para ninjas especializados em Ninjutsu.
 
 ---
 
