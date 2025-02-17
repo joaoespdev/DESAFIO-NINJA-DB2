@@ -58,7 +58,7 @@ A aplicação possui testes para garantir o funcionamento correto das funcionali
 - **Java 23**: Linguagem de programação utilizada 
 - **Spring Boot**: Framework para desenvolvimento de aplicações Java 
 - **Spring Data JPA**: Biblioteca para integração com o banco de dados 
-- **H2 Database**: Banco de dados em memória para persistência de dados 
+- **H2 Database**: Banco de dados relacional no modo in-memory
 - **Spring Boot DevTools**: Ferramenta para recarregamento automático durante o desenvolvimento 
 - **JUnit 5**: Framework para testes unitários 
 - **Mockito**: Biblioteca para simulação de objetos em testes 
